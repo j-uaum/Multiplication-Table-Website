@@ -1,0 +1,76 @@
+body{
+background-image: url(wallpaperflare.com_wallpaper.jpg) ;
+background-repeat:repeat;
+
+
+ 
+background-color: #373d61;
+font: normal 15pt Arial;
+}
+
+
+header{
+color: orange;
+text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px ;
+    padding: 15px ;
+    width: 500px ;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.787);
+    text-align: center;
+
+ 
+
+}
+
+footer{
+color: orange;
+text-align: center;
+font-style: italic;
+
+}
+
+
+.btn{
+    font: normal 15pt Arial;
+    text-transform:Uppercase;
+    font-weight: 700;
+    border:nome;
+    padding:10px ;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+
+
+}
+
+.btn-green{
+    background-color: green;
+    color:whitesmoke;
+    box-shadow:0 5px 0 #006000;
+}
+
+.btn-green:hover{
+    background:#006000;
+    color:whitesmoke;
+    box-shadow:0 5px 0 #003f00;
+
+}
+.btn-green:active{
+    position:relative;
+    top: 5px;
+    box-shadow:none;}
+
+    #res{
+        background-color: lightgrey;
+    }
+
+    #h2{
+        font: italic 13pt arial;
+        color: orange
+    }
+
